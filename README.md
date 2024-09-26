@@ -1,2 +1,2 @@
 # zedgrant
-grant deadlines
+Upcoming grant deadlines
